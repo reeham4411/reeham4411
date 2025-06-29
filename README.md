@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adeena Reeham
 
 I'm a passionate Computer Science student who loves building real-world tech solutions in AI, cybersecurity, web development, and IoT. I enjoy turning ideas into code, collaborating on impactful projects, and always learning something new!
-![Profile Views](https://komarev.com/ghpvc/?username=reeham4411&style=flat-square&color=blue)
+
 ---
 
 ## 🚀 Projects
