@@ -92,19 +92,19 @@ I'm a passionate Computer Science student focused on building intelligent system
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reeham4411&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reeham4411&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reeham4411&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeham4411&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reeham4411&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
-
 ---
 
 ## 🌱 Currently Exploring
