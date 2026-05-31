@@ -95,11 +95,15 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ## 📈 GitHub Stats
 
-![Adeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeham4411&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reeham4411&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reeham4411&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reeham4411&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeham4411&layout=compact&theme=radical)](https://github.com/reeham4411)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeham4411&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
 ---
 
