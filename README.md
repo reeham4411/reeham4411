@@ -6,21 +6,21 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- 🤖 **Clario — Multi-Agent AI Research Assistant** — Autonomous AI research system with planning, validation, memory, and synthesis workflows.
-- 🧠 **AI Codebase Intelligence Platform** — AI-powered platform for intelligent code understanding, analysis, and developer assistance.
-- 🎨 **Folio — AI Portfolio Builder** — Full-stack AI-powered portfolio generation platform with customizable templates and publishing.
-- ♿ **Accessibility Auditor** — AI-assisted WCAG accessibility analyzer with automated issue detection and fix suggestions.
-- 🔐 **AI Hybrid IDPS** — Hybrid intrusion detection system combining machine learning with signature-based cybersecurity techniques.
-- 📰 **NewsChatter** — Real-time news summarization and sentiment analysis platform using NLP techniques.
-- 📊 **Distributed Vehicle Communication Simulator** — Distributed systems simulation using adaptive gossip communication protocols.
+-  **Clario — Multi-Agent AI Research Assistant** — Autonomous AI research system with planning, validation, memory, and synthesis workflows.
+- **AI Codebase Intelligence Platform** — AI-powered platform for intelligent code understanding, analysis, and developer assistance.
+- **Folio — AI Portfolio Builder** — Full-stack AI-powered portfolio generation platform with customizable templates and publishing.
+- **Accessibility Auditor** — AI-assisted WCAG accessibility analyzer with automated issue detection and fix suggestions.
+- **AI Hybrid IDPS** — Hybrid intrusion detection system combining machine learning with signature-based cybersecurity techniques.
+- **NewsChatter** — Real-time news summarization and sentiment analysis platform using NLP techniques.
+- **Distributed Vehicle Communication Simulator** — Distributed systems simulation using adaptive gossip communication protocols.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ---
 
-### 🌐 Frontend Development
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -41,7 +41,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ---
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -54,7 +54,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ---
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -68,7 +68,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
 
 
-### 🧠 Areas of Interest
+### Areas of Interest
 
 - Agentic AI Systems
 - Retrieval-Augmented Generation (RAG)
@@ -83,7 +83,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 - Full-Stack AI Applications
 ---
 
-### ☁️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -92,7 +92,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reeham4411&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
@@ -107,7 +107,7 @@ I'm a passionate Computer Science student focused on building intelligent system
 </p>
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Advanced Multi-Agent AI Systems
 - AI Product Engineering
@@ -117,13 +117,13 @@ I'm a passionate Computer Science student focused on building intelligent system
 
 ---
 
-## 💡 Fun Fact
+##  Fun Fact
 
 I love blending creativity with technology whether it's building intelligent systems, designing user experiences, or transforming ideas into impactful products. 🚀
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 📧 Email: adeenareeham@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/adeena-reeham-20150a2a6/
